@@ -91,4 +91,4 @@ Raspberry Pi with Homeassistant and additional software.
 # Background
 The project was born from frustration with bad offline dimmers and environmental sensors with non-intuitive interfaces and one way communication that often fails, and a feeling that the comercial options avalable where to expensive and restricted.
 
-![useful image]({{ site.url }}/assets/tv-test-pattern.png)
+![useful image](assets/tv-test-pattern.png)
