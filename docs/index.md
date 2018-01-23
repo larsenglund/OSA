@@ -86,3 +86,6 @@ Mobile phone app that automatically finds and configures all devices.
 Optional local server that allows automation and data collection to be kept local and private.
 Raspberry Pi with Homeassistant and additional software.
 <bild på; GUI:n (HADashboard på väggpadda, på mobilen, etc), servern i inkapsling (pi3 i standardlåda?)>
+
+# Background
+The project was born from frustration with bad offline dimmers and environmental sensors with non-intuitive interfaces and one way communication that often fails, and a feeling that the comercial options avalable where to expensive and restricted.
