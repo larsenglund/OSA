@@ -79,11 +79,13 @@ USB rechargeable with standard mini USB phone charger.
 # Software
 ## OSA configurator
 Mobile phone app that automatically finds and configures all devices.
+
 <bild på; app på telefonen + kort film?>
 
 ## Server
 Optional local server that allows automation and data collection to be kept local and private.
 Raspberry Pi with Homeassistant and additional software.
+
 <bild på; GUI:n (HADashboard på väggpadda, på mobilen, etc), servern i inkapsling (pi3 i standardlåda?)>
 
 # Background
