@@ -2,7 +2,6 @@
 A series of open smart automation devices and software. All devices support WiFi and mesh networking and use open standards such as MQTT for communication. Works with Google Home and Alexa. Easy creation of automation rules, scheduling and scenes.
 
 # Devices
-All devices support WiFi and mesh networking.
 Available devices are;
 * [LD (LED Dimmer)](#ld-led-dimmer)
 * [ED (Embedded Dimmer)](#ed-embedded-dimmer)
