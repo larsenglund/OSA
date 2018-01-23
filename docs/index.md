@@ -91,6 +91,7 @@ Raspberry Pi with Homeassistant and additional software.
 # Background
 The project was born from frustration with bad offline dimmers and environmental sensors with non-intuitive interfaces and one way communication that often fails, and a feeling that the comercial options avalable where to expensive and restricted.
 The name OSA is a combination of two acronyms; the Swedish acronym OSA, and some of the core keywords of the project (Open Smart Automation). OSA in Swedish means "Om Svar Anhålles" and is the Swedish equivalent of R.S.V.P. which is derived from French for "Please respond" and was chosen since one of the main driving forces for the project was lack of response from devices, either due to one way radio protocols or due to poor user interfaces.
+The projects was created by [Lars Englund](https://github.com/larsenglund) and has been under development since 2015 (moved from Bitbucket to GitHub in 2018).
 
 ![useful image](assets/tv-test-pattern.png)
 
