@@ -14,7 +14,7 @@ Available devices are (in no particular order)
 ## LD (LED Dimmer)
 LED controller with two dimmer channels and two RGB channels.
 The dimmer channels are for controlling any type of LED that uses 5-30VDC with a max total current of 10A (120W @ 12V or 240W @ 24V).
-The RGB channels are for controlling addressable RGB LED strips.
+The RGB channels are for controlling addressable RGB LED strips (NeoPixels, WS2812, APA102, etc).
 
 <bild på; schematic, pcb (eller gerber), populerat pcb, inkapsling (fusion360-render + foto), i drift i hemmiljö>
 
